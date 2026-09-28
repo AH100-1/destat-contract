@@ -38,3 +38,10 @@
 /.claude
 /CLAUDE.md
 /AGENTS.md
+
+# Ignition local deployments
+/ignition/deployments
+
+# OS / IDE
+.DS_Store
+/.idea
